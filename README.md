@@ -8,7 +8,7 @@ This is a port of [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)'s [clou
 Installation
 ------------
 
-Copy `modules/prompt/functions/prompt_cloud_setup` to `~/,zprezto/`.
+Copy `modules/prompt/functions/prompt_cloud_setup` to `~/.zprezto/`.
 
 Usage
 -----
