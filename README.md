@@ -8,10 +8,12 @@ This is a port of [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)'s [clou
 Installation
 ------------
 
-Copy `modules/prompt/functions/prompt_cloud_setup` to `~/.zprezto/`.
+* Copy `modules/prompt/functions/prompt_cloud_setup` to `~/.zprezto/`.
+* Make sure `pmodule 'git'` is loaded after all other modules are loaded in `~/.zpreztorc`.
 
 Usage
 -----
+
 This prompt's prefix symbol and colors are customizable:
 ```
 prompt cloud [<symbol>] [<color1>] [<color2>]
